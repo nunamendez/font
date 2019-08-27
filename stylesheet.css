@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Just Blossom';
+    src: url('JustBlossomRegular.eot');
+    src: url('JustBlossomRegular.eot?#iefix') format('embedded-opentype'),
+        url('JustBlossomRegular.woff2') format('woff2'),
+        url('JustBlossomRegular.woff') format('woff'),
+        url('JustBlossomRegular.ttf') format('truetype'),
+        url('JustBlossomRegular.svg#JustBlossomRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
